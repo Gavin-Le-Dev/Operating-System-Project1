@@ -1,0 +1,3 @@
+/Users/gavinle/CLionProjects/Measure System Call/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gavinle/CLionProjects/Measure System Call/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gavinle/CLionProjects/Measure System Call/cmake-build-debug/CMakeFiles/Measure_System_Call.dir
